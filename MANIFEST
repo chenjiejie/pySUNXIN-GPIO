@@ -1,0 +1,4 @@
+README.txt
+setup.py
+source/gpio_lib.c
+source/pysunxi.c
